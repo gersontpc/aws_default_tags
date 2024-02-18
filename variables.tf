@@ -12,6 +12,6 @@ variable "sigla" {}
 variable "sn" {}
 variable "account_id" {}
 
-variable "custom_tags" {
+variable "additional" {
   default = "null"
 }
